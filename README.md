@@ -1,3 +1,2 @@
 # TOI
-This Rep is about TOI
-Since zero to last one
+this rep is my project that I feel it so cool
